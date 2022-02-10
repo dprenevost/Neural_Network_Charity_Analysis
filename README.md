@@ -18,16 +18,27 @@ The sigmoid activation function is used for the output layer
 ![optimize1](https://user-images.githubusercontent.com/91210001/153321678-3612eb9e-1e0c-4bee-92f0-07574927543e.PNG)
 
 Optimization #2:
-Two hidden layers are used with 160 and 50 neurons respectively
+Two hidden layers are used with 80 and 300 neurons respectively
 The ReLu activation function is used for the two hidden layers
 The sigmoid activation function is used for the output layer
+![image](https://user-images.githubusercontent.com/91210001/153436102-013f537e-b6f3-4dd5-8325-62826b71cc0b.png)
 
 
 Optimization #3:
-Three hidden layers are used with 80, 30, and 10 neurons respectively
+Three hidden layers are used with 80, 30 neurons respectively
 The ReLu activation function is used for the hidden layers
 The tanh activation function is used for the output layer
 
+Optimization #1:
+Reducing the number of bins of the application types by increasing the count from < 200 to < 1000
+Reducing the number of bins of the classification types by increasing the count from < 1500 to < 2000
+Optimization #2:
+Reducing the number of bins of the application types by increasing the count from < 200 to < 10000
+Reducing the number of bins of the classification types by increasing the count from < 1500 to < 5000
+Increasing the number of epochs during training to 250
+Optimization #3:
+Reducing the number of bins of the application types by increasing the count from < 200 to < 10000
+Reducing the number of bins of the classification types by increasing the count from < 1500 to < 5000
 
 The target model accuracy of 75% was not achieved despite the changes described above and in addition to the following changes made to the original model:
 
@@ -37,8 +48,9 @@ Using the original model, an accuracy of 72.7% was achieved
 
 ![model](https://user-images.githubusercontent.com/91210001/153322007-c3566b3f-dc7b-4213-92a6-8aae0535b876.PNG)
 
-Optimization #1 had the next highest accuracy rate of 72.4% followed by Optimization #2 (70.8%) and Optimization #3 (61.7%)
-
+Optimization #1 had the next highest accuracy rate of 72.4% followed by  and Optimization #3 (61.7%)
+![image](https://user-images.githubusercontent.com/91210001/153436839-1f15a8c0-3f1f-4074-a329-b635b7ed7b37.png)
+Optimization #2 (72.4%)
 Recommendation
 It does not appear that adding more layers, neurons and epochs improve the accuracy. The next iteration recommended is as follows:
 
