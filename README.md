@@ -21,7 +21,7 @@ Optimization #2:
 Two hidden layers are used with 80 and 300 neurons respectively
 The ReLu activation function is used for the two hidden layers
 The sigmoid activation function is used for the output layer
-![image](https://user-images.githubusercontent.com/91210001/153436102-013f537e-b6f3-4dd5-8325-62826b71cc0b.png)
+![image](https://user-images.githubusercontent.com/91210001/153437416-4a5263a6-87b1-4b52-a8f9-d935e30a1937.png)
 
 
 Optimization #3:
