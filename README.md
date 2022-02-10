@@ -28,6 +28,7 @@ Optimization #3:
 Three hidden layers are used with 80, 30 neurons respectively
 The ReLu activation function is used for the hidden layers
 The tanh activation function is used for the output layer
+![image](https://user-images.githubusercontent.com/91210001/153437576-e4cfc85d-4096-46aa-ba28-f72cfcd44a81.png)
 
 Optimization #1:
 Reducing the number of bins of the application types by increasing the count from < 200 to < 1000
