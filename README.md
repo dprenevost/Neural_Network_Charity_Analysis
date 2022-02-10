@@ -53,7 +53,7 @@ Optimization #1 had the next highest accuracy rate of 72.4%
 ![image](https://user-images.githubusercontent.com/91210001/153436839-1f15a8c0-3f1f-4074-a329-b635b7ed7b37.png)
 Optimization #2 (72.4%)
 ![image](https://user-images.githubusercontent.com/91210001/153438096-126d0dd6-1602-4038-ad5e-dc5f395e1079.png)
-Optimization #3 
+Optimization #3 (72.1%)
 ![image](https://user-images.githubusercontent.com/91210001/153439175-67fd79e1-ef27-41f5-8460-5a33a249f1a4.png)
 
 Recommendation
