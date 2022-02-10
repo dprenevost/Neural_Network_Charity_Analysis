@@ -7,8 +7,6 @@ Data Preprocessing
 The target for the model is "IS_SUCCESSFUL" i.e. whether the applicants will be successful or not.
 The "EIN" and "Name" of the applicants are neither features nor targets and are dropped during preprocessing.
 
-opt#1_features
-
 Optimization #3:
 In addition to the columns dropped in Optimizations #1 and #2, the "Affiliation" column is dropped as well.
 
